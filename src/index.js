@@ -27,7 +27,7 @@ const skills = [
     skill: "React",
     level: "advanced",
     color: "#60DAFB"
-  },
+  }
 ];
 
 
